@@ -1,0 +1,4 @@
+interface:
+  display_name: "城大英文论文润色"
+  short_description: "修改已有英文论文草稿，减少模板表达，校准本人风格并保留论证、引用和学术限定"
+  default_prompt: "使用 $cityu-english-paper 润色我已有的英文论文草稿，保留观点、数据和引用，先按轻度编辑处理；需要确认的信息请集中问我。"
